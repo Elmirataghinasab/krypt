@@ -1,8 +1,27 @@
-# React + Vite
+# React + Vite + hardhat + solidity
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+desc: 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+this is a full simple solidity project.
+it has its frontend written in react/vite and it has a smart contract on solidity .
+this project connects to your wallet and you can transfer eth with a desc in this web application to the address you want and the transactions will shown by a gif in the web page.
+this project is fully responsive.
+
+the design and idea of this project is from someone else 
+
+## installation
+
+first of all you should clone the code from github repo 
+
+the second step is to install package.json 
+(please use the same versions to not to face any errors)
+
+third step creat a .env file and add
+alchemy_rpc , privatekey ,VITE_GIPHY_API for your project to work 
+
+
+this contract was deployed on hardhat deploy it yourself again 
+
+## author
+[@elmiratghinsb](https://github.com/Elmirataghinasab)
